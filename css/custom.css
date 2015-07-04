@@ -99,6 +99,11 @@ footer {
 	margin-top: 15px; 
 }
 
+#gympic1 {
+	padding-bottom: 10px
+}
+
+
 /*Responsive Styling*/
 /*Medium*/
 @media (max-width: 1199px) {
