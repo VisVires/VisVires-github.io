@@ -120,9 +120,11 @@ footer {
 	pointer-events: none;
 }
 .modalDialog img{
+  	margin-top: 10px;
 }
 
 .modalDialog p{
+	margin-top: 10px;
 	font-size: 18px;
 	text-align: justify;
 } 
@@ -211,7 +213,7 @@ footer {
   .homepage p {
     font-size: 18px;
   }
-  
+
   .modalDialog p{
   	font-size: 12px;
   }
