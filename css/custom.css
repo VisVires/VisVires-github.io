@@ -119,13 +119,21 @@ footer {
 	transition: opacity 400ms ease-in;
 	pointer-events: none;
 }
+.modalDialog img{
+}
+
+.modalDialog p{
+	font-size: 18px;
+	text-align: justify;
+} 
+
 .modalDialog:target{
 	opacity: 1;
 	pointer-events: auto;
 }
 /*modal window styling*/
 .modalDialog > div {
-	width: 700px;
+	width: 1000px;
 	position:relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
@@ -140,9 +148,9 @@ footer {
 	color: #000000
 	line-height: 25px;
 	position: absolute;
-	right: 0px;
+	right: -12px;
 	text-align: center;
-	top: 0px;
+	top: -12px;
 	width: 24px;
 	text-decoration: none;
 	font-weight: bold;
@@ -176,8 +184,16 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .modalDialog > div{
-  	width: 80% 	
+  .modalDialog > div {
+  	width: 80%; 	
+  }
+
+  .modalDialog p{
+  	font-size: 12px;
+  }
+
+  .ppic {
+  	width: 80%;
   }
 }
 /*Extra Small*/
@@ -194,6 +210,10 @@ footer {
   }
   .homepage p {
     font-size: 18px;
+  }
+  
+  .modalDialog p{
+  	font-size: 12px;
   }
   footer img {
     width: 80%;
