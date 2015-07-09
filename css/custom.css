@@ -124,7 +124,7 @@ footer {
 }
 /*modal window styling*/
 .modalDialog > div {
-	width: 400px;
+	width: 700px;
 	position:relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
@@ -174,6 +174,9 @@ footer {
   #get-involved .col-md-4 .col-md-6 .col-md-3{
     padding-top: 20px;
     padding-bottom: 20px;
+  }
+  .modalDialog > div{
+  	width: 80% 	
   }
 }
 /*Extra Small*/
