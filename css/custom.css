@@ -123,6 +123,10 @@ footer {
   	margin-top: 10px;
 }
 
+#training p{
+	text-align: justify;
+}
+
 .jad{
 	text-align: center;
 }
@@ -168,10 +172,6 @@ footer {
 	box-shadow: 1px 1px 3px #000;
 }
 .close:hover{background: #ff0000;}
-
-#options{
-	text-align: center;
-}
 
 /*Responsive Styling*/
 /*Medium*/
