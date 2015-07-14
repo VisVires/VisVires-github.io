@@ -123,11 +123,25 @@ footer {
   	margin-top: 10px;
 }
 
+
 #training p{
 	text-align: justify;
 }
 
+#greg p{
+	text-align: justify;
+	font-size: small;
+}
+
 .jad{
+	text-align: center;
+}
+
+#background {
+	text-align: justify;
+}
+
+#background h3, h4{
 	text-align: center;
 }
 
@@ -201,7 +215,15 @@ footer {
   	font-size: 12px;
   }
 
-  .ppic {
+  .gmap{
+  	width: 80%;
+  }
+
+  .gcalender{
+  	width: 80%;
+  }
+
+  .ppic{
   	width: 80%;
   }
 }
@@ -217,7 +239,7 @@ footer {
   .btn-lg {
     font-size: 18px;
   }
-  .homepage p {
+  .homepage p{
     font-size: 18px;
   }
 
