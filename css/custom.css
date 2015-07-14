@@ -242,9 +242,12 @@ footer {
   .homepage p{
     font-size: 18px;
   }
-
   .modalDialog p{
   	font-size: 12px;
+  }
+
+  .gcalender{
+  	width: 60%;
   }
   footer img {
     width: 80%;
