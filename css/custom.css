@@ -145,6 +145,12 @@ footer {
 	text-align: center;
 }
 
+#gym {
+    background-color: #000;
+    color: #fff;
+
+}
+
 .modalDialog p{
 	margin-top: 10px;
 	font-size: 18px;
