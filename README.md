@@ -1,3 +1,2 @@
 # VisVires.github.io
-My first site on github
-business site
+Vis Vires Fitness Business Page
